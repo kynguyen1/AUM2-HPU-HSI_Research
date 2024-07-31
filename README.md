@@ -6,7 +6,7 @@ The AUM2 Dataset is adapted from the "CloudPatch-7 Hyperspectral Dataset" specif
 It can be found at: [https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset](https://ieee-dataport.org/documents/cloudpatch-7-hyperspectral-dataset)
 
 ### Adding the AUM2 Dataset to the custom_datasets.py
-To added the AUM2 Dataset to the ```custom_datasets.py``` folder we must also have the 2 datasets in a mat file called ```AUM2_Dataset.mat``` and ```AUM2_gt.mat``` in the folders ```data/Datasets```
+The AUM2 Dataset was added to the ```custom_datasets.py``` folder, we must also have the 2 datasets in a mat file called ```AUM2_Dataset.mat``` and ```AUM2_gt.mat``` in the folder ```data/Datasets/AUM2```.
 
 
 ## Building Containers
