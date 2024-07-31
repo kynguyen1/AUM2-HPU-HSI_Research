@@ -10,5 +10,5 @@ To added the AUM2 Dataset to the ```custom_datasets.py``` folder we must also ha
 
 
 ## Building Containers
-To build the containers
+The containers ```internetAccessRequired_v2_aum2.sif``` and ```computeNodes_v2_aum2.sif ``` were built for the AUM2 Dataset. These containers can be found at: [SYSLAB LINK]
 
